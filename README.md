@@ -235,7 +235,7 @@ javac -version
 
 ## 👨‍💻 Autor
 
-**Nathan** - Exercícios de Estrutura de Dados - 2024
+**Nathan** - Exercícios de Estrutura de Dados - 2026
 
 ---
 
