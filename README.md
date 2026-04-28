@@ -204,11 +204,7 @@ javac -version
 
 ## 👨‍💻 Criado por
 
-<<<<<<< HEAD
-**Nathan** - Trabalho de Estrutura de Dados - 2024
-=======
-**Nathan** - Exercícios de Estrutura de Dados - 2026
->>>>>>> 7a807cb2a60ad721f088dbd0e8ac54aa402994e1
+**Nathan** - Exercícios de Estrutura de Dados - 2024
 
 ---
 
